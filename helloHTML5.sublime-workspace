@@ -1,0 +1,219 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ocultar",
+				"ocultarPantallas"
+			],
+			[
+				"f",
+				"fun	Function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"SYNTAX PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"sni",
+				"Snippet: if … else"
+			],
+			[
+				"togg",
+				"View: Toggle Side Bar"
+			],
+			[
+				"syntax j",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/ALBERTO/Trabajo/PROYECTOS/Web/SERVIDOR_PHP/helloHTML5/app/index.html",
+		"/F/ALBERTO/Trabajo/PROYECTOS/Web/SERVIDOR_PHP/helloHTML5/app/styles/main.scss",
+		"/F/ALBERTO/Trabajo/PROYECTOS/Web/SERVIDOR_PHP/helloHTML5/package.json",
+		"/F/ALBERTO/Trabajo/PROYECTOS/Web/SERVIDOR_PHP/helloHTML5/dist/styles/95a28631.main.css",
+		"/F/ALBERTO/Trabajo/PROYECTOS/Web/SERVIDOR_PHP/helloHTML5/app/scripts/app.js",
+		"/F/ALBERTO/Trabajo/PROYECTOS/Web/SERVIDOR_PHP/helloHTML5/app/404.html",
+		"/F/ALBERTO/Trabajo/PROYECTOS/Web/SERVIDOR_PHP/helloHTML5/app/.htaccess",
+		"/F/ALBERTO/Trabajo/PROYECTOS/Web/SERVIDOR_PHP/helloHTML5/helloHTML5.sublime-project",
+		"/F/ALBERTO/Dropbox/APP/DESARROLLO/Sublime Text 2/Data/Packages/Default/Preferences.sublime-settings",
+		"/F/ALBERTO/Trabajo/PROYECTOS/Web/SERVIDOR_PHP/ayuntamiento/index.php",
+		"/F/ALBERTO/Dropbox/2013-14/WEBAPPS/04 Workflow/Yeoman/ejemplo3/app/index.html",
+		"/C/Users/Alberto/Desktop/BORRAR/prueba.php",
+		"/F/ALBERTO/Dropbox/2013-14/WEBAPPS/04 Workflow/Yeoman/ejemplo3/app/404.html",
+		"/F/ALBERTO/Dropbox/2013-14/WEBAPPS/04 Workflow/Yeoman/ejemplo3/app/styles/main.scss",
+		"/F/ALBERTO/Dropbox/2013-14/WEBAPPS/04 Workflow/Yeoman/ejemplo3/ejemplo3.sublime-project",
+		"/F/ALBERTO/Dropbox/APP/DESARROLLO/Sublime Text 2/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/F/ALBERTO/Dropbox/APP/DESARROLLO/Sublime Text 2/Data/Settings/SideBarEnhancements.json",
+		"/F/ALBERTO/Dropbox/2013-14/WEBAPPS/04 Workflow/Yeoman/ejemplo3/app/scripts/main.js",
+		"/C/Users/IGEE/Dropbox/2013-14/WEBAPPS/02 JS/ejemplo/index.html",
+		"/C/Users/IGEE/Dropbox/2013-14/WEBAPPS/04 Workflow/Yeoman/ejemplo/app/styles/main.scss",
+		"/C/Users/IGEE/Dropbox/2013-14/WEBAPPS/04 Workflow/Yeoman/ejemplo/test/lib/mocha/mocha.css",
+		"/C/Users/IGEE/Dropbox/2013-14/WEBAPPS/04 Workflow/Yeoman/ejemplo/Gruntfile.js",
+		"/C/Users/IGEE/Dropbox/2013-14/WEBAPPS/04 Workflow/Yeoman/ejemplo/app/index.html",
+		"/C/Users/IGEE/Dropbox/2013-14/WEBAPPS/04 Workflow/Yeoman/ejemplo/app/scripts/app.js",
+		"/C/Users/IGEE/Dropbox/2013-14/WEBAPPS/04 Workflow/enlaces.txt",
+		"/C/Users/IGEE/Downloads/enlaces.txt",
+		"/C/Users/IGEE/Dropbox/APP/DESARROLLO/Sublime Text 2/proyectos/test/test.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"BACKGROUND",
+			"path",
+			"folder",
+			"jjj",
+			"name",
+			"jjj",
+			"name",
+			"adios",
+			"name",
+			"'];",
+			"name",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"dd",
+			"yyy",
+			"xxxx"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true
+}
